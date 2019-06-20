@@ -2,7 +2,7 @@
 Quick script to change all circuits that are part of a Circuit Category to a new cost using CloudGenix Python SDK
 
 #### Files
-* `change_costs.py` - example, modifiable script
+* `change_costs.py` - Script to modify WAN Interface Costs
 * `cloudgenix_settings.py.example` - example of a cloudgenix_settings.py authentication file.
 
 #### Authentication
