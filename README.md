@@ -62,3 +62,10 @@ Debug:
                         Enable SDK Debug output, levels 0-2
 ```
 
+#### Usage Example
+```bash
+edwards-mbp-pro:cloudgenix_waninterface_cost aaron$ ./change_costs.py --cost 200 --category "LTE" --output cust_lte_change_results.csv
+Working through all sites..
+100%|#####################################################################################################################################|Time:  0:01:42
+edwards-mbp-pro:cloudgenix_waninterface_cost aaron$ 
+```
